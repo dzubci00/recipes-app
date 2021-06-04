@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/recipes-app/static/css/main.6ca42173.chunk.css",
-    "main.js": "/recipes-app/static/js/main.a6db6659.chunk.js",
-    "main.js.map": "/recipes-app/static/js/main.a6db6659.chunk.js.map",
-    "runtime-main.js": "/recipes-app/static/js/runtime-main.1753db27.js",
-    "runtime-main.js.map": "/recipes-app/static/js/runtime-main.1753db27.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/recipes-app/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4c9df26a.chunk.js": "/recipes-app/static/js/2.4c9df26a.chunk.js",
-    "static/js/2.4c9df26a.chunk.js.map": "/recipes-app/static/js/2.4c9df26a.chunk.js.map",
-    "index.html": "/recipes-app/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/recipes-app/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.6ca42173.chunk.css.map": "/recipes-app/static/css/main.6ca42173.chunk.css.map",
-    "static/js/2.4c9df26a.chunk.js.LICENSE.txt": "/recipes-app/static/js/2.4c9df26a.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.6ca42173.chunk.css",
+    "main.js": "./static/js/main.a6db6659.chunk.js",
+    "main.js.map": "./static/js/main.a6db6659.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c1a86d15.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c1a86d15.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "./static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4c9df26a.chunk.js": "./static/js/2.4c9df26a.chunk.js",
+    "static/js/2.4c9df26a.chunk.js.map": "./static/js/2.4c9df26a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "./static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6ca42173.chunk.css.map": "./static/css/main.6ca42173.chunk.css.map",
+    "static/js/2.4c9df26a.chunk.js.LICENSE.txt": "./static/js/2.4c9df26a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1753db27.js",
+    "static/js/runtime-main.c1a86d15.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.4c9df26a.chunk.js",
     "static/css/main.6ca42173.chunk.css",
